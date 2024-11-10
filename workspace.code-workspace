@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "saba_core"
+        },
+        {
+            "name": "net/wasabi",
+            "path": "net/wasabi"
+        },
+        {
+            "path": "."
+        }
+    ]
+}
